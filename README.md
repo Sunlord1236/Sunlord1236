@@ -1,5 +1,5 @@
-- Waddup i'm Sunlord 😁
-- Everything i do barely works
-- No UI = No fun
+- Waddup i'm Sunlord 
+- French Canadian Developper 🍁
+- Ex app development student, now cybersecurity student
 - Python Specialist
 - Chat gpt specialist 😏
